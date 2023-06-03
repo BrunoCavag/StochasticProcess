@@ -1,0 +1,1 @@
+In this repo I will explore and code different models related with Stochastic Process. The purpose of this repo is for me to learn more about this kind models and how to apply them. 
